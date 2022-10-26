@@ -41,6 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esta aplicação consiste em uma plataforma que disponibiliza ao usuário a possibilidade de tirar uma carta de tarot. As cartas possuem significados reais e aplicáveis à questão intencionada pelo usuário
 
+* projeto inspirado em um case real, da Personare, para Desenvolvedor Front End (https://github.com/Personare/front-end-challenge)
+
 
 ## Link vercel - [Clique Aqui -> Flash Tarot](https://flashtarot.vercel.app/)
 
